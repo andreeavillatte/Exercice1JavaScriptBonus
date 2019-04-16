@@ -1,0 +1,10 @@
+h1 {
+    margin: auto;
+    font-size: 25px;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    background-color: #eee;
+    margin-block-end: 10px;
+    border-style: dashed;
+}
